@@ -69,6 +69,3 @@ homework3_iris/
 ## 许可证
 
 MIT License
-
----
-项目作者：Hor1zen | 作业 3：鸢尾花分类可视化
